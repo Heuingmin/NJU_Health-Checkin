@@ -2,12 +2,12 @@
     "student_id": "XXXXXXXXX",
     "password": "XXXXXXXXXXX",
     "User_Agent": "Mozilla/5.0 (Linux; Android 12; M2007J1SC Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36 cpdaily/9.0.15 wisedu/9.0.15",
-    "location": "default",
+    "location": "江苏省南京市鼓楼区汉口路22号",
     "body_temp_ok": "1",
     "health_status": "1",
     "my_health_code_color": "1",
     "fam_mem_health_code_color": "1",
     "leave_NJ": "default",
     "last_RNA": "default",
-    "try_N_times": "0"
+    "try_N_times": "3"
 }
